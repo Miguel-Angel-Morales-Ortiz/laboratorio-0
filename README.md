@@ -74,7 +74,7 @@ El resultado se clasifica en cuatro rangos:
 - Normal
 - Alta
 
-###  `AI2.py` (Versión 2)
+##  `AI2.py` (Versión 2)
 
 Representa una evolución significativa del proyecto, orientada al análisis de datos poblacionales.
 
