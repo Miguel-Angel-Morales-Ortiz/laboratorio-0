@@ -13,10 +13,6 @@ El script más básico de la colección. Diseñado para un solo uso, calcula la 
 * Clasifica la BSA en: `BSA baja`, `BSA normal`, o `BSA alta`.
 * Requiere que el usuario ingrese la altura (cm) y el peso (kg).
 
-# Evaluación de Superficie Corporal (BSA)
-
-Este repositorio contiene dos scripts en Python diseñados para calcular la Superficie Corporal (BSA) de uno o varios individuos, clasificarlos según rangos clínicos, y ofrecer retroalimentación útil sobre su estado físico. Cada versión añade funcionalidades progresivamente más avanzadas.
-
 ---
 
 ### 🔹 `BSA_CAT2.py`
