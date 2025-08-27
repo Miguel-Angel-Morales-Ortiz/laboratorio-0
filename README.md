@@ -1,4 +1,4 @@
-# Laboratorio 0, Analizador de Superficie Corporal (BSA)
+# Laboratorio 0, Analizador de Superficie Corporal (BSA).
 Este repositorio contiene una serie de scripts en Python para calcular y clasificar la Superficie Corporal (BSA) de las personas utilizando la **fórmula de Mosteller**.
 
 Cada archivo representa una versión mejorada, añadiendo nuevas funcionalidades que van desde el cálculo simple para una persona hasta el análisis de múltiples individuos con rangos de peso recomendados.
