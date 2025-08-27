@@ -25,7 +25,7 @@ Proporciona un único valor numérico: la BSA estimada. No incluye interpretaci�
 
 ---
 
-### **`bsa_cat.py`**
+## **`bsa_cat.py`**
 El script más básico de la colección. Diseñado para un solo uso, calcula la BSA y clasifica el resultado.
 
 **Características:**
@@ -35,7 +35,7 @@ El script más básico de la colección. Diseñado para un solo uso, calcula la 
 
 ---
 
-### `BSA_CAT2.py`
+## `BSA_CAT2.py`
 
 Versión mejorada que permite procesar datos de un grupo de personas. Además de los cálculos individuales, mantiene un conteo y presenta un resumen de los resultados de todo el grupo.
 
@@ -48,7 +48,7 @@ Versión mejorada que permite procesar datos de un grupo de personas. Además de
 
 ---
 
-### 🔹 `BSA_CAT3.py`
+## 🔹 `BSA_CAT3.py`
 
 Versión más avanzada y completa del script. Incorpora todas las funcionalidades de `BSA_CAT2.py` y añade una característica clínica muy útil: calcula el rango de peso ideal para alcanzar una BSA "normal" (entre 1.5 y 2.0 m²).
 
@@ -60,11 +60,11 @@ Versión más avanzada y completa del script. Incorpora todas las funcionalidade
 
 ##  Versiones Modificadas y Expandidas (Generadas por IA)
 
-Las siguientes versiones representan mejoras incrementales sobre el código base, añadiendo funcionalidades clínicas y estadísticas para una evaluación más completa.
+los siguientes codigos son los solicitados por la AI con el propósito de crear el codigo por sus propios medios
 
 ---
 
-### 🔹 `AI.py` (Versión 1)
+## 🔹 `AI.py` (Versión 1)
 
 Modificación del código base que introduce una clasificación clínica del valor de BSA.
 
