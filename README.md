@@ -3,6 +3,27 @@ Este repositorio contiene una serie de scripts en Python para calcular y clasifi
 
 Cada archivo representa una versión mejorada, añadiendo nuevas funcionalidades que van desde el cálculo simple para una persona hasta el análisis de múltiples individuos con rangos de peso recomendados.
 
+## Código Base: `bsa.py`
+
+Este archivo constituye el punto de partida del proyecto. Su funcionalidad es simple y directa: calcular la BSA de un único individuo.
+
+### Objetivo Principal
+Determinar el valor numérico de la BSA para una persona.
+
+### Método
+Utiliza la fórmula de Mosteller:
+
+\[
+\text{BSA} = \sqrt{\frac{\text{altura (cm)} \times \text{peso (kg)}}{3600}}
+\]
+
+Solicita la altura en centímetros y el peso en kilogramos.
+
+### 📤 Salida
+Proporciona un único valor numérico: la BSA estimada. No incluye interpretación ni clasificación.
+
+---
+
 ---
 
 ### **`bsa_cat.py`**
