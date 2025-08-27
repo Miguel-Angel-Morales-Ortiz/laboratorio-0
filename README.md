@@ -22,7 +22,6 @@ Solicita la altura en centímetros y el peso en kilogramos.
 ### 📤 Salida
 Proporciona un único valor numérico: la BSA estimada. No incluye interpretación ni clasificación.
 
----
 
 ---
 
@@ -46,6 +45,8 @@ Versión mejorada que permite procesar datos de un grupo de personas. Además de
 - Almacena los resultados individuales en una lista.
 - Mantiene un contador por categoría de BSA.
 - Al finalizar, muestra un resumen con los resultados individuales y el porcentaje total por categoría.
+
+---
 
 ### 🔹 `BSA_CAT3.py`
 
