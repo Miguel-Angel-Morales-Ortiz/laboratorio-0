@@ -1,7 +1,18 @@
-# laboratorio-0
-## solución laboratorio 0 programación 1
-resultado del laboratorio 0 propuesto en la clase de programación. 
-Lo que se encontrará en cada archivo será lo siguiente: 
-•	[bsa_cat.py]bsa_cat.py : programa que solicita al usuario altura y peso, calcula la superficie corporal con la función bsa, y luego clasifica esa BSA según rangos clínicos reales consultados en copilot. 
-•	AI1.py : Código generado por la IA copilot que solicita al usuario altura y peso, calcula la superficie corporal con la función bsa, y luego clasifica esa BSA según rangos clínicos reales consultados en la mencionada. 
-•	BSA_CAT2.py : Programa que solicita al usuario el número de personas, luego pide la altura y el peso de cada una. Calcula la superficie corporal individual, determina el porcentaje de personas que se encuentran en cada una de las categorías (“Bajo”, “Normal” o “Alto”) y almacena la categoría correspondiente. Al finalizar, imprime la lista completa de categorías obtenidas.
+# Laboratorio 0, Analizador de Superficie Corporal (BSA)
+Este repositorio contiene una serie de scripts en Python para calcular y clasificar la Superficie Corporal (BSA) de las personas utilizando la **fórmula de Mosteller**.
+
+Cada archivo representa una versión mejorada, añadiendo nuevas funcionalidades que van desde el cálculo simple para una persona hasta el análisis de múltiples individuos con rangos de peso recomendados.
+
+---
+
+### **`bsa_cat.py`**
+El script más básico de la colección. Diseñado para un solo uso, calcula la BSA y clasifica el resultado.
+
+**Características:**
+* Calcula la BSA para **una sola persona**.
+* Clasifica la BSA en: `BSA baja`, `BSA normal`, o `BSA alta`.
+* Requiere que el usuario ingrese la altura (cm) y el peso (kg).
+
+**Uso:**
+```bash
+python bsa_cat.py
