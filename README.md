@@ -23,7 +23,6 @@ Solicita la altura en centímetros y el peso en kilogramos.
 Proporciona un único valor numérico: la BSA estimada. No incluye interpretación ni clasificación.
 
 
----
 
 ## **`bsa_cat.py`**
 El script más básico de la colección. Diseñado para un solo uso, calcula la BSA y clasifica el resultado.
@@ -33,7 +32,6 @@ El script más básico de la colección. Diseñado para un solo uso, calcula la 
 * Clasifica la BSA en: `BSA baja`, `BSA normal`, o `BSA alta`.
 * Requiere que el usuario ingrese la altura (cm) y el peso (kg).
 
----
 
 ## `BSA_CAT2.py`
 
@@ -46,7 +44,6 @@ Versión mejorada que permite procesar datos de un grupo de personas. Además de
 - Mantiene un contador por categoría de BSA.
 - Al finalizar, muestra un resumen con los resultados individuales y el porcentaje total por categoría.
 
----
 
 ## 🔹 `BSA_CAT3.py`
 
@@ -62,7 +59,6 @@ Versión más avanzada y completa del script. Incorpora todas las funcionalidade
 
 los siguientes codigos son los solicitados por la AI con el propósito de crear el codigo por sus propios medios
 
----
 
 ## 🔹 `AI.py` (Versión 1)
 
@@ -77,8 +73,6 @@ El resultado se clasifica en cuatro rangos:
 - Baja
 - Normal
 - Alta
-
----
 
 ### 🔹 `AI2.py` (Versión 2)
 
@@ -96,8 +90,3 @@ Representa una evolución significativa del proyecto, orientada al análisis de 
   - Resultados individuales.
   - Porcentaje de personas en cada categoría de BSA.
 
----
-
-
-```bash
-python BSA_CAT2.py
