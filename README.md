@@ -14,7 +14,7 @@ Determinar el valor numérico de la BSA para una persona.
 Utiliza la fórmula de Mosteller:
 
 \[
-\text{BSA} = \sqrt{\frac{\text{altura (cm)} \times \text{peso (kg)}}{3600}}
+    BSA = sqrt((height_cm * weight_kg) / 3600)
 \]
 
 Solicita la altura en centímetros y el peso en kilogramos.
