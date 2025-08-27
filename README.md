@@ -15,7 +15,7 @@ El script más básico de la colección. Diseñado para un solo uso, calcula la 
 
 ---
 
-### 🔹 `BSA_CAT2.py`
+### `BSA_CAT2.py`
 
 Versión mejorada que permite procesar datos de un grupo de personas. Además de los cálculos individuales, mantiene un conteo y presenta un resumen de los resultados de todo el grupo.
 
