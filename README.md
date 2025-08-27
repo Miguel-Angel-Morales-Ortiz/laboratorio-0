@@ -78,14 +78,11 @@ El resultado se clasifica en cuatro rangos:
 
 Representa una evolución significativa del proyecto, orientada al análisis de datos poblacionales.
 
-####  Capacidad de Procesamiento
 - Solicita la cantidad de individuos a evaluar.
 - Itera sobre cada uno para calcular su BSA y categoría.
-
-####  Recopilación de Datos
 - Almacena los resultados individuales (BSA y categoría) en una lista.
 
-####  Análisis Sumarizado
+####  salida 
 - Muestra un resumen final con:
   - Resultados individuales.
   - Porcentaje de personas en cada categoría de BSA.
