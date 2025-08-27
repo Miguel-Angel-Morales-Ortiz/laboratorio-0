@@ -45,7 +45,7 @@ Versión mejorada que permite procesar datos de un grupo de personas. Además de
 - Al finalizar, muestra un resumen con los resultados individuales y el porcentaje total por categoría.
 
 
-## 🔹 `BSA_CAT3.py`
+##  `BSA_CAT3.py`
 
 Versión más avanzada y completa del script. Incorpora todas las funcionalidades de `BSA_CAT2.py` y añade una característica clínica muy útil: calcula el rango de peso ideal para alcanzar una BSA "normal" (entre 1.5 y 2.0 m²).
 
@@ -60,7 +60,7 @@ Versión más avanzada y completa del script. Incorpora todas las funcionalidade
 los siguientes codigos son los solicitados por la AI con el propósito de crear el codigo por sus propios medios
 
 
-## 🔹 `AI.py` (Versión 1)
+##  `AI.py` (Versión 1)
 
 Modificación del código base que introduce una clasificación clínica del valor de BSA.
 
@@ -74,7 +74,7 @@ El resultado se clasifica en cuatro rangos:
 - Normal
 - Alta
 
-### 🔹 `AI2.py` (Versión 2)
+###  `AI2.py` (Versión 2)
 
 Representa una evolución significativa del proyecto, orientada al análisis de datos poblacionales.
 
