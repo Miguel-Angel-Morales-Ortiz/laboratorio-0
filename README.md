@@ -58,6 +58,45 @@ Versión más avanzada y completa del script. Incorpora todas las funcionalidade
 - Para cada persona, muestra el rango de peso ideal para alcanzar una BSA normal.
 - Proporciona retroalimentación clínica sobre cómo el peso actual se compara con un rango saludable.
 
+## 2️⃣ Versiones Modificadas y Expandidas (Generadas por IA)
+
+Las siguientes versiones representan mejoras incrementales sobre el código base, añadiendo funcionalidades clínicas y estadísticas para una evaluación más completa.
+
+---
+
+### 🔹 `AI.py` (Versión 1)
+
+Modificación del código base que introduce una clasificación clínica del valor de BSA.
+
+#### Funcionalidad Añadida
+- La función `obtener_clasificacion_bsa` interpreta el valor calculado de la BSA.
+
+####  Clasificación
+El resultado se clasifica en cuatro rangos:
+- Muy baja
+- Baja
+- Normal
+- Alta
+
+---
+
+### 🔹 `AI2.py` (Versión 2)
+
+Representa una evolución significativa del proyecto, orientada al análisis de datos poblacionales.
+
+####  Capacidad de Procesamiento
+- Solicita la cantidad de individuos a evaluar.
+- Itera sobre cada uno para calcular su BSA y categoría.
+
+####  Recopilación de Datos
+- Almacena los resultados individuales (BSA y categoría) en una lista.
+
+####  Análisis Sumarizado
+- Muestra un resumen final con:
+  - Resultados individuales.
+  - Porcentaje de personas en cada categoría de BSA.
+
+---
 
 
 ```bash
