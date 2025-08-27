@@ -19,7 +19,7 @@ Utiliza la fórmula de Mosteller:
 
 Solicita la altura en centímetros y el peso en kilogramos.
 
-### 📤 Salida
+###  Salida
 Proporciona un único valor numérico: la BSA estimada. No incluye interpretación ni clasificación.
 
 
