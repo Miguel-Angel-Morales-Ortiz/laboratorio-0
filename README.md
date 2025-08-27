@@ -58,7 +58,7 @@ Versión más avanzada y completa del script. Incorpora todas las funcionalidade
 - Para cada persona, muestra el rango de peso ideal para alcanzar una BSA normal.
 - Proporciona retroalimentación clínica sobre cómo el peso actual se compara con un rango saludable.
 
-## 2️⃣ Versiones Modificadas y Expandidas (Generadas por IA)
+##  Versiones Modificadas y Expandidas (Generadas por IA)
 
 Las siguientes versiones representan mejoras incrementales sobre el código base, añadiendo funcionalidades clínicas y estadísticas para una evaluación más completa.
 
