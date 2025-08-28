@@ -24,7 +24,7 @@ Proporciona un único valor numérico: la BSA estimada. No incluye interpretaci�
 
 
 
-## **[`bsa_cat.py`](bsa_cat.py)
+## [`bsa_cat.py`](bsa_cat.py)
 El script más básico de la colección. Diseñado para un solo uso, calcula la BSA y clasifica el resultado.
 
 **Características:**
