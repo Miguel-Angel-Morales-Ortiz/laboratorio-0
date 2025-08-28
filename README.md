@@ -3,7 +3,7 @@ Este repositorio contiene una serie de scripts en Python para calcular y clasifi
 
 Cada archivo representa una versión mejorada, añadiendo nuevas funcionalidades que van desde el cálculo simple para una persona hasta el análisis de múltiples individuos con rangos de peso recomendados.
 
-## Código Base: `bsa.py`
+## Código Base: [bsa.py]`bsa.py`
 
 Este archivo constituye el punto de partida del proyecto. Su funcionalidad es simple y directa: calcular la BSA de un único individuo.
 
